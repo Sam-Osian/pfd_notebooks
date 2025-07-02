@@ -1,0 +1,10 @@
+[project]
+name = "pfd-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "pfd-toolkit>=0.3.3",
+]
